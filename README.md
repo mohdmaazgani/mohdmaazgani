@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Maaz Gani</h1>
-<h3 align="center">Just a tech enthusiast turning caffeine and code into AI-powered web solutions.</h3>
+<h3 align="center">"Just a tech enthusiast turning caffeine and code into AI-powered web solutions."</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdmaazgani&label=Profile%20views&color=0e75b6&style=flat" alt="mohdmaazgani" /> </p>
+
 
 - 🌱 I’m currently learning **DSA, Python frameworks, and exploring various technologies**
 
