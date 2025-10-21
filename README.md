@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohd Maaz Gani</h1>
 <h3 align="center">"Just a tech enthusiast turning caffeine and code into AI-powered web solutions."</h3>
+[![An image of @mohdmaazgani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohdmaazgani)](https://holopin.io/@mohdmaazgani)
 
 
 
