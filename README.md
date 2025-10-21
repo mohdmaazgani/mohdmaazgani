@@ -10,9 +10,11 @@
 
 - ⚡ Fun fact: **If you’ve landed here, either fate has a great sense of humor… or you're exactly where you're meant to be. Welcome! 😄**
 
+[![An image of @mohdmaazgani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohdmaazgani)](https://holopin.io/@mohdmaazgani)
+
 # 🌐 Connect with me :
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohdmaazgani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohdmaazgani/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohd-maaz-gani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohdmaazgani/" height="30" width="40" /></a>
 
 </p>
 
@@ -27,7 +29,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=mohdmaazgani&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdmaazgani&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![An image of @mohdmaazgani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohdmaazgani)](https://holopin.io/@mohdmaazgani)
+
 
 ---
 
