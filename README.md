@@ -6,17 +6,16 @@
 
 - 🌱 I’m currently **nurturing my skills in Data Structures & Algorithms, diving into Python frameworks like Flask & Django, and taking curious detours into whatever tech rabbit hole excites me next — because why not?**
 
-- 📫 How to reach me: **Wanna build something cool or just geek out over tech? Let’s talk: maazgani40@gmail.com**
+- 📫 How to reach me: **Wanna build something cool or just geek out over tech? Let’s talk: mohdmaazgani@gmail.com**
 
 - ⚡ Fun fact: **If you’ve landed here, either fate has a great sense of humor… or you're exactly where you're meant to be. Welcome! 😄**
 
 [![An image of @mohdmaazgani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohdmaazgani)](https://holopin.io/@mohdmaazgani)
 
 # 🌐 Connect with me :
-<p align="left">
-<a href="https://www.linkedin.com/in/mohd-maaz-gani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohd-maaz-gani/" height="30" width="40" /></a>
-
-</p>
+<p align="center">
+<a href="https://linkedin.com/in/mohd-maaz-gani/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:mohdmaazgani@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" /></a>
 
 # 🛠️ Languages and Tools (logos) :
 <p align="center">
