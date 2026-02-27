@@ -7,8 +7,6 @@
 <h3 align="center">"Just a tech enthusiast turning caffeine and code into AI-powered web solutions."</h3>
 
 
-
-
 - 🌱 I’m currently **nurturing my skills in Data Structures & Algorithms, diving into Python frameworks like Flask & Django, and taking curious detours into whatever tech rabbit hole excites me next — because why not?**
 
 - 📫 How to reach me: **Wanna build something cool or just geek out over tech? Let’s talk: mohdmaazgani@gmail.com**
