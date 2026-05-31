@@ -9,7 +9,7 @@
 <p>
   <a href="https://linkedin.com/in/mohd-maaz-gani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="mailto:mohdmaazgani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/mohdmaazgani"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/mohdmaazgani"><img src="https://img.shields.io/badge/GitHub-brightgreen?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=mohdmaazgani&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
