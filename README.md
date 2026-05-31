@@ -1,40 +1,233 @@
-<h1 align="center">Hi 👋, I'm Mohd Maaz Gani</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&center=true&width=600&lines=Building+Scalable+Web+Applications;Exploring+AI+%26+Machine+Learning;Turning+Ideas+Into+Impactful+Products🚀" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohd%20Maaz%20Gani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Turning+Ideas+Into+Impactful+Products+%F0%9F%92%A1;Caffeine+%2B+Code+%3D+Magic+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
 </p>
 
-<h3 align="center">"Just a tech enthusiast turning caffeine and code into AI-powered web solutions."</h3>
-
-- 🌱 I’m currently **nurturing my skills in Data Structures & Algorithms, diving into Python frameworks like Flask & Django, and taking curious detours into whatever tech rabbit hole excites me next — because why not?**
-
-- 📫 How to reach me: **Wanna build something cool or just geek out over tech? Let’s talk: mohdmaazgani@gmail.com**
-
-- ⚡ Fun fact: **If you’ve landed here, either fate has a great sense of humor… or you're exactly where you're meant to be. Welcome! 😄**
-
-[![An image of @mohdmaazgani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohdmaazgani)](https://holopin.io/@mohdmaazgani)
-
-# 🌐 Connect with me :
-<p align="center">
-<a href="https://linkedin.com/in/mohd-maaz-gani/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a> &nbsp;&nbsp;&nbsp;
-<a href="mailto:mohdmaazgani@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" /></a>
-
-# 🛠️ Languages and Tools (logos) :
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,mongodb,expressjs,react,nodejs,nextjs,bootstrap,tailwindcss,git,github,githubactions,vscode,firebase,mysql,linux,latex,aws,postman,docker,anaconda,flask,tensorflow,supabase,netlify" />
+<p>
+  <a href="https://linkedin.com/in/mohd-maaz-gani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="mailto:mohdmaazgani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/mohdmaazgani"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=mohdmaazgani&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohdmaazgani&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mohdmaazgani&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdmaazgani&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
+</div>
 
 ---
 
+## 🧑‍💻 About Me
 
+```python
+class MohdMaazGani:
+    def __init__(self):
+        self.name       = "Mohd Maaz Gani"
+        self.location   = "India 🇮🇳"
+        self.role       = "Full Stack Developer & AI Enthusiast"
+        self.languages  = ["Python", "JavaScript", "Java", "C++", "TypeScript"]
+        self.interests  = ["Web Dev", "Machine Learning", "DSA", "Open Source"]
+        self.currently  = "Mastering DSA + diving into Flask/Django 🌱"
+        self.fun_fact   = "I turn caffeine ☕ and code into AI-powered solutions 🚀"
 
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something awesome together.")
+
+me = MohdMaazGani()
+me.say_hi()
+```
+
+---
+
+## 🚀 Tech Stack
+
+### 💬 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
+
+### 🤖 AI / ML
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+</p>
+
+### ☁️ DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="github-metrics.svg" width="100%" alt="GitHub Metrics"/>
+</div>
+
+<div align="center">
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="99%" alt="Profile Details"/>
+</div>
+
+<div align="center">
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%" alt="Repos Per Language"/>
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%" alt="Most Commit Language"/>
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" width="32%" alt="Stats"/>
+</div>
+
+<div align="center">
+  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive Time"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdmaazgani&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🔥 Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mohdmaazgani&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🎖️ Holopin Badges
+
+<div align="center">
+  <a href="https://holopin.io/@mohdmaazgani">
+    <img src="https://holopin.me/mohdmaazgani" alt="Holopin Badges"/>
+  </a>
+</div>
+
+---
+
+## 💡 A Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" alt="Dev Quote"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  <i>⚡ "If you've landed here, either fate has a great sense of humor… or you're exactly where you're meant to be. Welcome! 😄"</i>
+  <br><br>
+  <b>📫 Let's build something cool → <a href="mailto:mohdmaazgani@gmail.com">mohdmaazgani@gmail.com</a></b>
+</div>
+
+---
+
+<details>
+<summary>⚙️ <b>How to set up the always-working stats (click to expand)</b></summary>
+
+### These stats use GitHub Actions — no third-party servers, always 100% online.
+
+#### Step 1 — Create a GitHub Personal Access Token
+1. Go to **GitHub → Settings → Developer Settings → Personal access tokens → Fine-grained tokens**
+2. Click **Generate new token**, name it `METRICS_TOKEN`
+3. Set scopes: `read:user`, `repo` (public repos only is fine)
+4. Copy the token
+
+#### Step 2 — Add it as a Repository Secret
+1. Go to your `mohdmaazgani` profile repo → **Settings → Secrets and variables → Actions**
+2. Click **New repository secret**
+3. Name: `METRICS_TOKEN`, paste your token → Save
+
+#### Step 3 — Add this file as `.github/workflows/metrics.yml` in your profile repo
+
+```yaml
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # Runs every 6 hours
+  workflow_dispatch:          # Also lets you run it manually
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # --- Main metrics card (commits, stars, PRs, issues, rank) ---
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: mohdmaazgani
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Asia/Kolkata
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          filename: github-metrics.svg
+          output_action: commit
+
+      # --- Summary cards (repos, languages, commits, stats, time) ---
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        with:
+          USERNAME: mohdmaazgani
+          BRANCH_NAME: main
+          THEME: github_octicons
+```
+
+#### Step 4 — Run it!
+Go to **Actions → GitHub Metrics → Run workflow**. After ~1 minute the SVG files appear in your repo and your profile will show perfect, always-fresh stats. ✅
+
+</details>
