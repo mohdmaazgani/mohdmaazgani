@@ -34,4 +34,4 @@ jobs:
         with:
           USERNAME: mohdmaazgani
           BRANCH_NAME: main
-          THEME: github_octicons
+          UTC_OFFSET: 5
