@@ -15,7 +15,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          persist-credentials: true
+          token: ${{ secrets.METRICS_TOKEN }}
           fetch-depth: 0
 
       - name: Generate metrics
@@ -33,10 +33,10 @@ jobs:
           filename: github-metrics.svg
           output_action: commit
 
-      - name: Checkout repo again
+      - name: Checkout repo fresh
         uses: actions/checkout@v3
         with:
-          persist-credentials: true
+          token: ${{ secrets.METRICS_TOKEN }}
           fetch-depth: 0
 
       - name: Generate profile summary cards
@@ -47,3 +47,14 @@ jobs:
           USERNAME: mohdmaazgani
           BRANCH_NAME: main
           UTC_OFFSET: 5
+          AUTO_PUSH: false
+
+      - name: Push summary cards manually
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
+          git add -f ./profile-summary-card-output/
+          git status
+          git diff --staged --quiet || git commit -m "chore: update profile summary cards"
+          git push https://x-access-token:${{ secrets.METRICS_TOKEN }}@github.com/mohdmaazgani/mohdmaazgani.git main
