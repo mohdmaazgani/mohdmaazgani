@@ -106,17 +106,17 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="99%" alt="Profile Details"/>
+  <img src="profile-summary-card-output/vision_friendly_dark/0-profile-details.svg" width="99%" alt="Profile Details"/>
 </div>
 
 <div align="center">
-  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%" alt="Repos Per Language"/>
-  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%" alt="Most Commit Language"/>
-  <img src="profile-summary-card-output/tokyonight/3-stats.svg" width="32%" alt="Stats"/>
+  <img src="profile-summary-card-output/vision_friendly_dark/1-repos-per-language.svg" width="32%" alt="Repos Per Language"/>
+  <img src="profile-summary-card-output/vision_friendly_dark/2-most-commit-language.svg" width="32%" alt="Most Commit Language"/>
+  <img src="profile-summary-card-output/vision_friendly_dark/3-stats.svg" width="32%" alt="Stats"/>
 </div>
 
 <div align="center">
-  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive Time"/>
+  <img src="profile-summary-card-output/vision_friendly_dark/4-productive-time.svg" width="49%" alt="Productive Time"/>
 </div>
 
 ---
@@ -132,7 +132,7 @@ me.say_hi()
 ## 🔥 Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mohdmaazgani&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=mohdmaazgani&theme=vision_friendly_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -150,7 +150,7 @@ me.say_hi()
 ## 💡 A Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vision_friendly_dark" width="70%" alt="Dev Quote"/>
 </div>
 
 ---
