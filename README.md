@@ -139,13 +139,17 @@ me.say_hi()
 ## 🏅 GSSoC '26 Badges
 
 <div align="center">
+  <img src="gssoc-badge-elite.png" width="120px" alt="Elite"/>
+  <img src="gssoc-badge-power_contributor.png" width="120px" alt="Power Contributor"/>
+  <img src="gssoc-badge-bounty_master.png" width="120px" alt="Master Bounty"/>
+  <img src="gssoc-badge-rising_star.png" width="120px" alt="Rising Star"/>
+  <img src="gssoc-badge-point_scorer.png" width="120px" alt="Point Scorer"/>
+  <img src="gssoc-badge-role_pa.png" width="120px" alt="Project Admin"/>
+  
+  <br><br>
+  
   <a href="https://gssoc.girlscript.org/profile/b2289a38-2340-4066-b114-560c0cd653f4">
-    <img src="gssoc-badge-elite.png" width="120px" alt="Elite"/>
-    <img src="gssoc-badge-power_contributor.png" width="120px" alt="Power Contributor"/>
-    <img src="gssoc-badge-bounty_master.png" width="120px" alt="Master Bounty"/>
-    <img src="gssoc-badge-rising_star.png" width="120px" alt="Rising Star"/>
-    <img src="gssoc-badge-point_scorer.png" width="120px" alt="Point Scorer"/>
-    <img src="gssoc-badge-role_pa.png" width="120px" alt="Project Admin"/>
+    <img src="https://img.shields.io/badge/View%20GSSoC%20Profile-FF6B35?style=for-the-badge&logo=girlscript&logoColor=white"/>
   </a>
 </div>
 
