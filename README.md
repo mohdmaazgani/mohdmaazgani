@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1200,100:b8860b&height=180&section=header&text=Mohd%20Maaz%20Gani&fontSize=42&fontColor=FFD700&fontFamily=Orbitron&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1200,100:b8860b&height=180&section=header&text=Mohd%20Maaz%20Gani&fontSize=42&fontColor=FFD700&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Turning+Ideas+Into+Impactful+Products+%F0%9F%92%A1;Caffeine+%2B+Code+%3D+Magic+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
