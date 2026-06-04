@@ -132,8 +132,11 @@ me.say_hi()
 ## 🔥 Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mohdmaazgani&theme=vision_friendly_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=mohdmaazgani&theme=github-dark-blue" />
 </div>
+
+
+
 
 ---
 ## 🏅 GSSoC '26 Badges
