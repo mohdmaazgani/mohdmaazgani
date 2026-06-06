@@ -126,6 +126,7 @@ me.say_hi()
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdmaazgani&bg_color=1e1a1a&color=f97316&line=ef4444&point=dc2626&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 </div>
+
 ---
 
 ## 🔥 Streak
