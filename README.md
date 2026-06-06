@@ -132,7 +132,7 @@ me.say_hi()
 ## 🔥 Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mohdmaazgani&theme=github-dark-blue" />
+  <img src="https://streak-stats.demolab.com?user=mohdmaazgani&theme=highcontrast" />
 </div>
 
 
