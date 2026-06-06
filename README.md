@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=72&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1200&height=100&lines=MOHD+MAAZ+GANI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=80&duration=1&pause=0&color=FFFFFF&center=true&vCenter=true&width=1200&height=100&lines=MOHD+MAAZ+GANI&background=00000000&repeat=false" />
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Turning+Ideas+Into+Impactful+Products+%F0%9F%92%A1;Caffeine+%2B+Code+%3D+Magic+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
