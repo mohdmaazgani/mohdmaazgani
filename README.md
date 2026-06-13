@@ -142,9 +142,9 @@ me.say_hi()
 ## 🏅 GSSoC '26 Badges
 
 <div align="center">
-  <img src="gssoc-badge-gssoc_champion.png" width="240px" alt="GSSoC Champion"/>
-  <img src="gssoc-badge-top_100.png" width="240px" alt="Top 100"/>
+  <img src="gssoc-badge-gssoc_champion.png" width="240px" alt="GSSoC Champion"/>  
   <img src="gssoc-badge-elite.png" width="240px" alt="Elite"/>
+  <img src="gssoc-badge-top_100.png" width="240px" alt="Top 100"/>
   <img src="gssoc-badge-power_contributor.png" width="240px" alt="Power Contributor"/>
   <img src="gssoc-badge-bounty_master.png" width="240px" alt="Master Bounty"/>
   <img src="gssoc-badge-rising_star.png" width="240px" alt="Rising Star"/>
