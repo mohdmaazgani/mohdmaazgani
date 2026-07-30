@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=80&duration=1&pause=0&color=FFFFFF&center=true&vCenter=true&width=1200&height=100&lines=MOHD+MAAZ+GANI&background=00000000&repeat=false" />
