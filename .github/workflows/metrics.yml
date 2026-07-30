@@ -46,7 +46,7 @@ jobs:
         with:
           USERNAME: mohdmaazgani
           BRANCH_NAME: main
-          UTC_OFFSET: 5.5
+          TIMEZONE: Asia/Kolkata
           AUTO_PUSH: false
 
       - name: Push summary cards manually
